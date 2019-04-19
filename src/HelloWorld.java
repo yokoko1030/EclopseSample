@@ -6,7 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello, Japan!!");
 		System.out.println("Hello, Canada!!");
 		System.out.println("Hello, USA!!");
-		for(int i=0;i<10;i++){
+		for(int i=0;i<20;i++){
 			System.out.println("つかれた!!!");
 		}
 	}
